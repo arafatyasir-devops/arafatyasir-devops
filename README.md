@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 A.S.M AYASIR ARAFAT - DevOps Engineer  
+🚀 Passionate about **Cloud, CI/CD, Automation, and Infrastructure as Code (IaC)**  
+
+## 📌 Skills  
+- **Cloud:** Azure, AWS  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **CI/CD Pipelines:** Jenkins, GitHub Actions  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **Scripting:** Bash, Python  
+- **Monitoring:** Prometheus, Grafana  
+
+## 🔗 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/arafatyasir) | [GitHub](https://github.com/arafatyasir-devops)
+
