@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**arafatyasir-devops/arafatyasir-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # 👨‍💻 A.S.M AYASIR ARAFAT - DevOps Engineer  
 🚀 Passionate about **Cloud, CI/CD, Automation, and Infrastructure as Code (IaC)**  
